@@ -39,6 +39,8 @@ public class Alerts {
 
 		driver.switchTo().alert().dismiss();
 		driver.quit();
+		
+		
 
 	}
 
