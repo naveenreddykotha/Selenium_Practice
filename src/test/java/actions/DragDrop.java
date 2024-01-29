@@ -25,6 +25,8 @@ public class DragDrop {
 		WebElement el=driver.findElement(By.xpath("//a[contains(text(),'Sub Sub Item 2')]"));
 		//el.click();
 		System.out.println("desired element is clicked");
+		
+		
 	}
 
 }
